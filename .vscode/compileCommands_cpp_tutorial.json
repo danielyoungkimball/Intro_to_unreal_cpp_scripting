@@ -1,0 +1,674 @@
+[
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AI/CombatAIController.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AI/CombatAIController.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AI/CombatEnemy.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AI/CombatEnemy.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AI/CombatEnemySpawner.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AI/CombatEnemySpawner.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AI/CombatStateTreeUtility.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AI/CombatStateTreeUtility.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AI/EnvQueryContext_Player.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AI/EnvQueryContext_Player.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AnimNotify_CheckChargedAttack.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AnimNotify_CheckChargedAttack.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AnimNotify_CheckCombo.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AnimNotify_CheckCombo.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AnimNotify_DoAttackTrace.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/AnimNotify_DoAttackTrace.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatActivatable.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatActivatable.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatActivationVolume.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatActivationVolume.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatAttacker.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatAttacker.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatCharacter.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatCharacter.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatCheckpointVolume.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatCheckpointVolume.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatDamageable.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatDamageable.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatDamageableBox.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatDamageableBox.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatDummy.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatDummy.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatGameMode.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatGameMode.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatLavaFloor.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatLavaFloor.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatLifeBar.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatLifeBar.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatPlayerController.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Combat/CombatPlayerController.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Platforming/AnimNotify_EndDash.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Platforming/AnimNotify_EndDash.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Platforming/PlatformingCharacter.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Platforming/PlatformingCharacter.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Platforming/PlatformingGameMode.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Platforming/PlatformingGameMode.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Platforming/PlatformingPlayerController.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_Platforming/PlatformingPlayerController.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/AI/SideScrollingAIController.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/AI/SideScrollingAIController.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/AI/SideScrollingNPC.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/AI/SideScrollingNPC.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/AI/SideScrollingStateTreeUtility.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/AI/SideScrollingStateTreeUtility.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/Gameplay/SideScrollingJumpPad.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/Gameplay/SideScrollingJumpPad.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/Gameplay/SideScrollingMovingPlatform.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/Gameplay/SideScrollingMovingPlatform.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/Gameplay/SideScrollingPickup.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/Gameplay/SideScrollingPickup.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/Gameplay/SideScrollingSoftPlatform.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/Gameplay/SideScrollingSoftPlatform.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/SideScrollingCPP.Build.cs",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/SideScrollingCameraManager.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/SideScrollingCameraManager.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/SideScrollingCharacter.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/SideScrollingCharacter.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/SideScrollingGameMode.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/SideScrollingGameMode.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/SideScrollingInteractable.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/SideScrollingInteractable.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/SideScrollingPlayerController.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/SideScrollingPlayerController.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/SideScrollingUI.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/Variant_SideScrolling/SideScrollingUI.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/cpp_tutorial.Build.cs",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/cpp_tutorial.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/cpp_tutorial.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/cpp_tutorialCharacter.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/cpp_tutorialCharacter.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/cpp_tutorialGameMode.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/cpp_tutorialGameMode.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/cpp_tutorialPlayerController.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	},
+	{
+		"file": "/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/Source/cpp_tutorial/cpp_tutorialPlayerController.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/danielkimball/Documents/Unreal Projects/cpp_tutorial/.vscode/compileCommands_cpp_tutorial/cpp_tutorial.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.6/Engine/Source"
+	}
+]
